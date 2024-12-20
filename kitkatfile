@@ -12,6 +12,7 @@ pipeline {
           stage('environment') {
             steps {
                 echo 'welcome to the world'
+                echo 'hllw how are you'
                 
             }
             
