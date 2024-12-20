@@ -13,6 +13,7 @@ pipeline {
             steps {
                 echo 'welcome to the world'
                 echo 'hllw how are you'
+                echo 'chalo app'
                 
             }
             
